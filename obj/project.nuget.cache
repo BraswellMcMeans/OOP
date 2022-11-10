@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xELzmLBo1TOIxbQLQNx/64U3BehcGvR405Iz0xXhcGP+S5bsXhVewxnIUfrfPA0fLcSfQgd76hYb4vldUIamiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2weez\\OneDrive\\Documents\\Code\\repos\\oop-reporting-BraswellMcMeans\\filehandling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2weez\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\5.0.17\\microsoft.netcore.app.host.win-x86.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
